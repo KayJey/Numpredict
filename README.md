@@ -1,5 +1,5 @@
 # Numpredict
-Predicting 20x20 pixel numerical digit using a sic 4 layered  neural network.
+Predicting 20x20 pixel numerical digit using a sic 5 layered  neural network.
 
 `left side`
 > On to the left side is the ocatve script showing the number predicted by the algorithm
